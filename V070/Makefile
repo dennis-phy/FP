@@ -20,7 +20,7 @@ build/v070.pdf: FORCE | build
 	  --output-directory=build \
 	  --interaction=nonstopmode \
 	  --halt-on-error \
-	vXXX.tex
+	v070.tex
 
 build:
 	mkdir -p build
